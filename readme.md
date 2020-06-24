@@ -5,7 +5,7 @@ A quick experiment on producing treemap and sunburst plots for coverage reports 
 #### Instructions to run
 
 1. Install the requirements, `pip install requirements`
-2. Run `python visualize_coverage.py --path=PATH/TO/YOUR/HTML/COVERAGE/REPORT or URL
+2. Run `python visualize_coverage.py --path=PATH/TO/YOUR/HTML/COVERAGE/REPORT or URL`
 3. Plots should open up in your browser
 4. Alternatively run the jupyter notebook and experiment interactively.
 

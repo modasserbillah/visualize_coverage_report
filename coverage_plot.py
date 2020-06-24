@@ -34,7 +34,7 @@ def prepare_data(path):
 def create_plots(df):
     treemap = px.treemap(
         df[:-1],  # excludes the summary row
-        path=[0, 1],
+        path=[0, 1], # the path arg needs to be changed accorodingly depending on the nesting inside the project directory
         color_continuous_scale=px.colors.sequential.Peach,
         color="coverage",
     )
