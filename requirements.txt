@@ -1,5 +1,5 @@
 click==7.1.2
 pandas==1.0.5
 plotly==4.8.1
-lxml==4.5.1
+lxml==4.6.2
 jupyter==1.0.0
